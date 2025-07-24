@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: 🧪 Rodar testes
-        run: npx test
+        run: npm test
